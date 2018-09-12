@@ -1,0 +1,78 @@
+
+@import url('https://fonts.googleapis.com/css?family=Lato:300');
+
+
+body {
+    background-color: rgb(178, 184, 95) 
+   
+} 
+
+.intro {
+    
+    background-image: url("images/maxresdefault.jpg");
+    background-color: #cccccc;
+    height: 590px;
+     
+} 
+
+h1{
+    padding-top: 111px;
+    margin: -8px 15px 15px 45px;
+    width: 570px;
+    height: 180px;
+    font-family: 'Lato', sans-serif;
+    font-weight: 900;
+    font-size: 350%;
+    color: rgb(255, 255, 255);
+    text-decoration-line: overline underline;
+    
+    
+} 
+
+h2{
+    margin: 13px 130px 22px 45px;
+    font-family: 'Lato', sans-serif;
+    font-weight: 700;
+    color: white;
+    font-size: xx-large;
+} 
+
+.summary {
+    margin: 15px 744px 40px 45px;
+    font-family: 'Lato', sans-serif;
+    font-weight: bold;
+    color: white;
+    font-size: x-large;
+}
+
+
+.preamble { 
+    margin: 50px 0px;
+    padding: 75px 0px;
+    color: rgb(51, 134, 51);
+}
+ 
+.preamble h3{
+    background-color: lightgoldenrodyellow;
+    width: 140px;
+    height: 59px;
+    margin: 22px 600px;
+    text-align: center; 
+ }
+
+.main supporting{
+
+    margin: 306px 0px;
+} 
+
+.explanation {
+    margin: 306px 0px;
+}
+
+/* h3  {
+    background-color: lightgoldenrodyellow;
+    width: 140px;
+    height: 59px;
+    margin: 22px 600px;
+    text-align: center
+} */
